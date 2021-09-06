@@ -9,4 +9,6 @@
 - CSS
 - BOOTSTRAP
 
+![Pricing Plans Desktop](pricing-plans-desktop.png)
+
 ![Screenshot Pricing Plans](screenshot-pricing-plans.png)
