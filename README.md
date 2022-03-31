@@ -1,4 +1,4 @@
-# PRICES AND ACCOMMODATION PLANS
+# Planos e Preços Cards
 
 ### AUTHOR
 **Name**: Ezequiel Sousa, Webdeveloper, Webdesign<br>
